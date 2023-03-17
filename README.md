@@ -4,15 +4,21 @@
 
 <div style="display: inline_block"><br>
   <b> Front-End </b> <br><br>
+ <img align="center" alt="Flutter" height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+ <img align="center" alt="Dart" height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
  <img align="center" alt="React" height=40 width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="JS" height=40 width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
  <img align="center" alt="CSS" height=40 width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />  
  <img align="center" alt="HTML" height=40 width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+
+
   
   <br><br><b> Back-End </b> <br><br>
+  <img align="center" alt="Firebase" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" /> 
   <img align="center" alt="NodeJS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Express" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+   
 </div>
   
 <br />
