@@ -1,36 +1,34 @@
-### Hi, i'm Mateus Marinho
+### Hi, I'm Mateus Marinho  
+🚀 **Sudying: C# | .NET | Azure**
 
-## Technologies
+---
+
+## Tech Stack  
 
 <div style="display: inline_block"><br>
-  <b> Front-End </b> <br><br>
- <img align="center" alt="Flutter" height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
- <img align="center" alt="Dart" height=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
- <img align="center" alt="React" height=40 width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center" alt="JS" height=40 width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
- <img align="center" alt="CSS" height=40 width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />  
- <img align="center" alt="HTML" height=40 width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
+  **Front-End**  
+  <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt=".NET (Blazor)" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />  
 
-  
-  <br><br><b> Back-End </b> <br><br>
-  <img align="center" alt="Firebase" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" /> 
-  <img align="center" alt="NodeJS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
-   
-</div>
-  
-<br />
+  **Back-End & Cloud**  
+  <img align="center" alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="ASP.NET" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Azure" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img align="center" alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
-<a href = "https://github.com/momarinho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=momarinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momarinho&layout=compact&langs_count=16&theme=dracula"/>
-  </div>           
 </div>
 
-<br />
-<hr />
+---
+
+**What I Build**  
+- **Web Apps**: Front-end com HTML/CSS + Blazor (.NET)  
+- **APIs Robustas**: ASP.NET Core, Entity Framework, CQRS  
+- **Cloud Solutions**: Azure App Services, Functions, DevOps CI/CD  
+- **Banco de Dados**: SQL Server, Cosmos DB  
+
+---
 
 <div align="center"> 
   <a href = "mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
