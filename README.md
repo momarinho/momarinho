@@ -3,11 +3,9 @@ Hi, I'm Mateus Marinho
 
 ### What I Build:  
 
-**Web Applications:** Modern, responsive apps with React.js and Next.js  
+**Web Applications:** Modern, responsive apps with React.js
 
-**UI Components:** Reusable, accessible React components with TypeScript  
-
-**Full-Stack Solutions:** Combining React frontends with Node.js backends  
+**UI Components:** Reusable, accessible React components with Javascript
 
 <div align="center">
   <a href = "mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
