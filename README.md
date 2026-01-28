@@ -4,7 +4,7 @@ Hi, I'm Mateus Marinho
 What I Build
 Web Applications: Modern and responsive apps built with React.js and TypeScript.
 
-Automation & Optimization: Smart workflows and AI-assisted solutions using the DOE (Design of Experiments) methodology for continuous improvement.
+Automation & Optimization: Smart workflows and AI-assisted solutions using the DOE (Directive/Orchestration/Execution) methodology for continuous improvement.
 
 UI Components: Reusable and accessible React components that combine performance and elegant design.
 
