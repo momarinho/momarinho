@@ -1,9 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#FFF1F8,35:#EDE9FE,70:#DBEAFE,100:#BAE6FD&height=200&section=header&text=MATEUS%20MARINHO&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FLUTTER%20%26%20DART%20%7C%20BACKEND%20APIs&descAlignY=58&descAlign=50&fontColor=6D5DFB" alt="Mateus Marinho Header" width="100%" />
-
+  <!-- ARCADE ATTRACT MODE TITLE -->
   <a href="https://github.com/momarinho">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=7C6FF2&center=true&vCenter=true&width=720&height=35&lines=LEVEL+27+CODE+KNIGHT;SPECIALTY%3A+FLUTTER+%26+DART;BACKEND%3A+GO+%7C+LARAVEL+%7C+FASTAPI;REALTIME%3A+WEBSOCKETS+%26+DISTRIBUTED+STATE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1100&color=6D5DFB&center=true&vCenter=true&width=720&height=48&lines=%3E+MATEUS+MARINHO+_%3B%3C+SOFTWARE+ENGINEER+%2F%3E%3B%5B+INSERT+COIN+TO+PLAY+%5D%3B1+PLAYER+READY+%E2%80%A2+LVL+27" alt="Mateus Marinho Arcade Header" />
+  </a>
+  <br />
+
+  <!-- ARCADE SUBTITLE -->
+  <a href="https://github.com/momarinho">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1200&color=7C6FF2&center=true&vCenter=true&width=720&height=32&lines=SPECIALTY%3A+FLUTTER+%26+DART;BACKEND%3A+GO+%7C+LARAVEL+%7C+FASTAPI;REALTIME%3A+WEBSOCKETS+%26+DISTRIBUTED+STATE" alt="Mateus Marinho specialties" />
   </a>
 
   <p>
@@ -65,8 +70,18 @@ GO (GOLANG)           [██████████████████░
 | 🚀 [asteroids](https://github.com/momarinho/asteroids) | Multiplayer arcade game with an authoritative Go backend, 2D physics simulation at 30 ticks/s, HMAC-SHA256 anti-cheat validation, and a Flutter/Dart client synchronized through WebSockets. |
 | ⚡ [repengine](https://github.com/momarinho/repengine) | Training-routine platform with a high-performance Go + Fiber API, reactive Svelte 5 frontend, JWT authentication, workflow versioning, and a validated 4.45 ms p95 benchmark with Playwright. |
 | 🐳 [container-manager](https://github.com/momarinho/container-manager) | Docker container monitoring and orchestration dashboard with real-time metrics, log streaming, integrated terminal over WebSocket, multi-server support, and secure authentication. |
+| 👾 [portfolio](https://github.com/momarinho/portfolio) | Mobile-first RPG portfolio with a roguelike minigame, procedural dungeon generation, and real-time synthesized audio, developed with Flutter and Dart. |
 
 ### 📈 SYSTEM TELEMETRY
+
+<div align="center">
+  <a href="https://github.com/momarinho">
+    <img src="https://github-readme-stats.vercel.app/api?username=momarinho&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FB&title_color=7C3AED&icon_color=F472B6&text_color=4B5563&cache_seconds=1800" alt="Mateus's GitHub stats" height="170" />
+  </a>
+  <a href="https://github.com/momarinho?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momarinho&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=7C3AED&text_color=4B5563&cache_seconds=1800" alt="Top languages" height="170" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=momarinho&hide_border=true&background=FFF7FB&ring=A78BFA&fire=F9A8D4&currStreakLabel=7C3AED&sideLabels=6D5DFB&dates=9CA3AF&currStreakNum=4C1D95&sideNums=4C1D95" alt="GitHub streak" />
