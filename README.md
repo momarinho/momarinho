@@ -69,15 +69,6 @@ GO (GOLANG)           [██████████████████░
 ### 📈 SYSTEM TELEMETRY
 
 <div align="center">
-  <a href="https://github.com/momarinho">
-    <img src="https://github-readme-stats.vercel.app/api?username=momarinho&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FB&title_color=7C3AED&icon_color=F472B6&text_color=4B5563&cache_seconds=1800" alt="Mateus's GitHub stats" height="170" />
-  </a>
-  <a href="https://github.com/momarinho?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momarinho&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=7C3AED&text_color=4B5563&cache_seconds=1800" alt="Top languages" height="170" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=momarinho&hide_border=true&background=FFF7FB&ring=A78BFA&fire=F9A8D4&currStreakLabel=7C3AED&sideLabels=6D5DFB&dates=9CA3AF&currStreakNum=4C1D95&sideNums=4C1D95" alt="GitHub streak" />
 </div>
 
