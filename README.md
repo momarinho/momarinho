@@ -57,7 +57,6 @@ GO (GOLANG)           [██████████████████░
   <img src="https://img.shields.io/badge/Go-A7E8E1?style=for-the-badge&logo=go&logoColor=134E4A" alt="Go" />
   <img src="https://img.shields.io/badge/Laravel-FDB7C5?style=for-the-badge&logo=laravel&logoColor=881337" alt="Laravel" />
   <img src="https://img.shields.io/badge/FastAPI-A7F3D0?style=for-the-badge&logo=fastapi&logoColor=065F46" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Svelte-FBCFE8?style=for-the-badge&logo=svelte&logoColor=831843" alt="Svelte" />
   <img src="https://img.shields.io/badge/PostgreSQL-BFD7EA?style=for-the-badge&logo=postgresql&logoColor=1E3A5F" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-B8D8F8?style=for-the-badge&logo=docker&logoColor=1E40AF" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FDE68A?style=for-the-badge&logo=linux&logoColor=713F12" alt="Linux" />
@@ -70,18 +69,8 @@ GO (GOLANG)           [██████████████████░
 | 🚀 [asteroids](https://github.com/momarinho/asteroids) | Multiplayer arcade game with an authoritative Go backend, 2D physics simulation at 30 ticks/s, HMAC-SHA256 anti-cheat validation, and a Flutter/Dart client synchronized through WebSockets. |
 | ⚡ [repengine](https://github.com/momarinho/repengine) | Training-routine platform with a high-performance Go + Fiber API, reactive Svelte 5 frontend, JWT authentication, workflow versioning, and a validated 4.45 ms p95 benchmark with Playwright. |
 | 🐳 [container-manager](https://github.com/momarinho/container-manager) | Docker container monitoring and orchestration dashboard with real-time metrics, log streaming, integrated terminal over WebSocket, multi-server support, and secure authentication. |
-| 👾 [portfolio](https://github.com/momarinho/portfolio) | Mobile-first RPG portfolio with a roguelike minigame, procedural dungeon generation, and real-time synthesized audio, developed with Flutter and Dart. |
 
 ### 📈 SYSTEM TELEMETRY
-
-<div align="center">
-  <a href="https://github.com/momarinho">
-    <img src="https://github-readme-stats.vercel.app/api?username=momarinho&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF7FB&title_color=7C3AED&icon_color=F472B6&text_color=4B5563&cache_seconds=1800" alt="Mateus's GitHub stats" height="170" />
-  </a>
-  <a href="https://github.com/momarinho?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momarinho&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=7C3AED&text_color=4B5563&cache_seconds=1800" alt="Top languages" height="170" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=momarinho&hide_border=true&background=FFF7FB&ring=A78BFA&fire=F9A8D4&currStreakLabel=7C3AED&sideLabels=6D5DFB&dates=9CA3AF&currStreakNum=4C1D95&sideNums=4C1D95" alt="GitHub streak" />
