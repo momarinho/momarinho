@@ -78,7 +78,7 @@ GO (GOLANG)           [██████████████████░
 
 ### 🤝 PRESS START TO CO-OP
 
-Quer construir um app mobile em Flutter, uma API de alto rendimento ou trocar uma ideia sobre arquitetura de software?
+Want to contact me?
 
 <div align="center">
   <a href="https://linkedin.com/in/mateus-marinho"><img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-A5B4FC?style=for-the-badge&logo=linkedin&logoColor=312E81" alt="Connect on LinkedIn" /></a>
