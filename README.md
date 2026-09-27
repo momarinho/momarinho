@@ -62,14 +62,6 @@ GO (GOLANG)           [██████████████████░
   <img src="https://img.shields.io/badge/Linux-FDE68A?style=for-the-badge&logo=linux&logoColor=713F12" alt="Linux" />
 </p>
 
-### 🗺️ SELECTED QUESTS & ARTIFACTS
-
-| Quest | Description |
-|---|---|
-| 🚀 [asteroids](https://github.com/momarinho/asteroids) | Multiplayer arcade game with an authoritative Go backend, 2D physics simulation at 30 ticks/s, HMAC-SHA256 anti-cheat validation, and a Flutter/Dart client synchronized through WebSockets. |
-| ⚡ [repengine](https://github.com/momarinho/repengine) | Training-routine platform with a high-performance Go + Fiber API, reactive Svelte 5 frontend, JWT authentication, workflow versioning, and a validated 4.45 ms p95 benchmark with Playwright. |
-| 🐳 [container-manager](https://github.com/momarinho/container-manager) | Docker container monitoring and orchestration dashboard with real-time metrics, log streaming, integrated terminal over WebSocket, multi-server support, and secure authentication. |
-
 ### 📈 SYSTEM TELEMETRY
 
 <div align="center">
