@@ -90,20 +90,22 @@ Software Engineer with strong hands-on experience in production environments, de
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/momarinho/portfolio">🌐 Engineering Portfolio</a></h3>
+      <h3 align="center"><a href="https://github.com/momarinho/flowsync">🚢 FlowSync</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
-      <p><strong>Interactive Telemetry HUD & Multi-Language Portfolio</strong></p>
+      <p><strong>Resilient Comex Ingestion & Integration Engine</strong></p>
       <ul>
-        <li>Server-Side Rendering (SSR) with Next.js App Router for optimal Core Web Vitals.</li>
-        <li>Dynamic multi-language support (English, Portuguese, Spanish) with zero layout shift.</li>
-        <li>Accessible cyber/HUD interface with custom interactive components and terminal aesthetics.</li>
+        <li>3-Tier pipeline (Staging ➔ Core ➔ Quarantine) preventing operational database contamination.</li>
+        <li>HMAC SHA-256 cryptographic webhook verification and strict idempotency handling.</li>
+        <li>Strict domain contracts (ISO 6346 container validation, UN/LOCODE) with Pydantic v2.</li>
+        <li>Automated quarantine alerting integration via n8n low-code workflows.</li>
       </ul>
       <p align="center">
-        <a href="https://portfoliomomarinho.vercel.app"><strong>Visit Live Deployment →</strong></a>
+        <a href="https://github.com/momarinho/flowsync"><strong>Explore Repository & Architecture →</strong></a>
       </p>
     </td>
   </tr>
