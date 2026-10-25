@@ -1,89 +1,147 @@
 <div align="center">
 
-  <!-- ARCADE ATTRACT MODE TITLE -->
+  <!-- HERO TYPING TITLE -->
   <a href="https://github.com/momarinho">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1100&color=6D5DFB&center=true&vCenter=true&width=720&height=48&lines=%3E+MATEUS+MARINHO+_%3B%3C+SOFTWARE+ENGINEER+%2F%3E%3B%5B+INSERT+COIN+TO+PLAY+%5D%3B1+PLAYER+READY+%E2%80%A2+LVL+27" alt="Mateus Marinho Arcade Header" />
-  </a>
-  <br />
-
-  <!-- ARCADE SUBTITLE -->
-  <a href="https://github.com/momarinho">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1200&color=7C6FF2&center=true&vCenter=true&width=720&height=32&lines=SPECIALTY%3A+REACT+%26+REACT+NATIVE+(EXPO);BACKEND%3A+LARAVEL+12+%7C+PYTHON+(FASTAPI);STACK%3A+TYPESCRIPT+%7C+POSTGRESQL+%7C+DOCKER" alt="Mateus Marinho specialties" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Mateus+Marinho;Software+Engineer+%E2%80%94+Backend+%26+Distributed+Systems;Go+%E2%80%A2+Python+(FastAPI)+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL" alt="Mateus Marinho Header" />
   </a>
 
   <p>
-    <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/Email-mateusomarinho%40gmail.com-F9A8D4?style=for-the-badge&logo=gmail&logoColor=4C1D4F" alt="Email" /></a>
-    <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/LinkedIn-momarinho94-A5B4FC?style=for-the-badge&logo=linkedin&logoColor=312E81" alt="LinkedIn" /></a>
-    <a href="https://github.com/momarinho"><img src="https://img.shields.io/badge/GitHub-momarinho-86EFAC?style=for-the-badge&logo=github&logoColor=14532D" alt="GitHub" /></a>
-    <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Vercel-FED7AA?style=for-the-badge&logo=vercel&logoColor=7C2D12" alt="Portfolio" /></a>
+    <strong>Building high-throughput backends, resilient data pipelines, and real-time distributed architectures.</strong>
+  </p>
+
+  <p>
+    <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-Vercel-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/LinkedIn-momarinho94-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/Email-mateusomarinho%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/English_Fluency-C2_Proficient-10B981?style=for-the-badge" alt="English C2" />
   </p>
 
 </div>
 
 ---
 
-### 🎮 `CHARACTER_SHEET.TXT`
+### 💼 Engineering Overview
 
-```yaml
-========================================================================
-[PLAYER]: Mateus Marinho
-[CLASS] : Software Engineer — Full Stack, Web & Mobile Universal
-[FOCUS] : React • TypeScript • React Native (Expo) • Laravel 12 • Python
-[GUILD] : Prefeitura de Arraial do Cabo · RJ, Brasil
-[STATUS]: Squashing bugs & architecting production systems
-========================================================================
+Software Engineer with strong hands-on experience in production environments, developing mission-critical systems and high-concurrency applications:
+* **GovTech Platforms:** Architected and maintained municipal core infrastructure at **Prefeitura de Arraial do Cabo**, including the automated electronic publishing pipeline (Diário Oficial with containerized high-fidelity rendering, RBAC security, and PostgreSQL GIN full-text search) and urban mobility systems processing real-time telemetry (**GTFS-Realtime**).
+* **Distributed & Real-Time Systems:** Specialized in low-latency Go backends (<2ms), WebSocket synchronization, Docker socket security proxies, and resilient integration patterns (idempotency, HMAC verification, staging-to-quarantine pipelines).
 
-HP  [████████████████████░░] 85%  (Espresso Fuel ☕)
-SP  [██████████████████████] 100% (Clean Code Stamina ⚡)
-EXP [█████████████████░░░░░] 80%  (Shipping Universal Production Systems)
+---
+
+### 🚀 Featured Flagship Architectures
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/momarinho/repengine">🏋️ RepEngine</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Svelte_5_Runes-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      </p>
+      <p><strong>Deterministic Workout Execution & Audit Engine</strong></p>
+      <ul>
+        <li>Sub-2ms response latency with Go Fiber v2 and <code>pgxpool</code> connection pooling.</li>
+        <li>Deterministic state engine for workout progression (GZCLP, Double Progression, RIR/RPE).</li>
+        <li>Automated CI/CD via GitHub Container Registry (GHCR) and zero-downtime production deployments.</li>
+        <li>Hardened edge with Nginx rate-limiting, scanner mitigation, and Prometheus/Grafana metrics.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/momarinho/repengine"><strong>Explore Repository & Architecture →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/momarinho/container-manager">🐳 ContainerMaster</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go_Services-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p><strong>Multi-Platform Docker Orchestration & Real-Time Telemetry</strong></p>
+      <ul>
+        <li>Polyglot architecture: FastAPI backend + Go Security Proxy + Go Metrics Daemon.</li>
+        <li>Custom reverse proxy in Go filtering <code>/var/run/docker.sock</code> to prevent privilege escalation.</li>
+        <li>High-throughput metric extraction using native Go concurrency (goroutines & channels).</li>
+        <li>Universal client (Web, Android, iOS) with real-time log streaming and interactive terminal over WebSockets.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/momarinho/container-manager"><strong>Explore Repository & Architecture →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/momarinho/asteroids">🚀 Asteroids Real-Time Server</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-FF6600?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cross_Platform-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      </p>
+      <p><strong>Authoritative 30 Hz Multiplayer Game Server</strong></p>
+      <ul>
+        <li>Authoritative game simulation tick running in Go with high-frequency Goroutines.</li>
+        <li>Concurrent state synchronization over low-latency binary WebSockets.</li>
+        <li>Client reconciliation and delta state broadcasting for multi-client physics simulation.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/momarinho/asteroids"><strong>Explore Repository & Architecture →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/momarinho/portfolio">🌐 Engineering Portfolio</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p><strong>Interactive Telemetry HUD & Multi-Language Portfolio</strong></p>
+      <ul>
+        <li>Server-Side Rendering (SSR) with Next.js App Router for optimal Core Web Vitals.</li>
+        <li>Dynamic multi-language support (English, Portuguese, Spanish) with zero layout shift.</li>
+        <li>Accessible cyber/HUD interface with custom interactive components and terminal aesthetics.</li>
+      </ul>
+      <p align="center">
+        <a href="https://portfoliomomarinho.vercel.app"><strong>Visit Live Deployment →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Capabilities & Stack
+
+```
+┌─────────────────────────┬─────────────────────────────────────────────────────────────────┐
+│ Backend & Systems       │ Go (Fiber, goroutines, sub-ms), Python (FastAPI, Pydantic v2),  │
+│                         │ Node.js/TypeScript, RESTful APIs, WebSockets, gRPC, HMAC SHA-256│
+├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Data & Persistence      │ PostgreSQL (ACID, GIN, B-Tree, pgxpool, FTS), Redis, SQL Server │
+├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Architecture Patterns   │ Idempotency Locks, Staging-Core-Quarantine, Circuit Breaker,    │
+│                         │ Microservices, Strangler Fig Pattern, Event-driven architecture │
+├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ DevOps & Observability  │ Docker, Docker Compose, Linux/Bash, GitHub Actions CI/CD,       │
+│                         │ Nginx (Reverse Proxy & Rate-Limiting), Prometheus, Grafana      │
+├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
+│ Frontend & Universal    │ Svelte 5 (Runes), React, Next.js (SSR), React Native / Expo     │
+└─────────────────────────┴─────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 ATTRIBUTES & SKILL TREE
+---
 
-```text
-REACT & TYPESCRIPT    [████████████████████████░░░░░░] 78%
-LARAVEL 12 & PHP      [███████████████████████░░░░░░░] 74%
-REACT NATIVE (EXPO)   [███████████████████████░░░░░░░] 72%
-PYTHON & FASTAPI      [██████████████████████░░░░░░░░] 70%
-POSTGRESQL & MYSQL    [█████████████████████░░░░░░░░░] 68%
-FLUTTER & DART        [█████████████████████░░░░░░░░░] 68%
-LINUX & DOCKER        [████████████████████░░░░░░░░░░] 66%
-REST APIs & WEBSOCKET [████████████████████░░░░░░░░░░] 66%
-```
-
-### 🛠️ EQUIPPED INVENTORY
-
-<p>
-  <img src="https://img.shields.io/badge/React-BFDBFE?style=for-the-badge&logo=react&logoColor=1E3A8A" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-C7D2FE?style=for-the-badge&logo=typescript&logoColor=312E81" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React%20Native-BAE6FD?style=for-the-badge&logo=react&logoColor=0369A1" alt="React Native" />
-  <img src="https://img.shields.io/badge/Laravel%2012-FDB7C5?style=for-the-badge&logo=laravel&logoColor=881337" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-FED7AA?style=for-the-badge&logo=python&logoColor=7C2D12" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-A7F3D0?style=for-the-badge&logo=fastapi&logoColor=065F46" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-BFD7EA?style=for-the-badge&logo=postgresql&logoColor=1E3A5F" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Flutter-DDD6FE?style=for-the-badge&logo=flutter&logoColor=4C1D95" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Docker-B8D8F8?style=for-the-badge&logo=docker&logoColor=1E40AF" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FDE68A?style=for-the-badge&logo=linux&logoColor=713F12" alt="Linux" />
-</p>
-
-### 📈 SYSTEM TELEMETRY
+### 📈 Contribution Telemetry
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=momarinho&hide_border=true&background=FFF7FB&ring=A78BFA&fire=F9A8D4&currStreakLabel=7C3AED&sideLabels=6D5DFB&dates=9CA3AF&currStreakNum=4C1D95&sideNums=4C1D95" alt="GitHub streak" />
-</div>
-
-### 🤝 PRESS START TO CO-OP
-
-Want to collaborate or discuss engineering?
-
-<div align="center">
-  <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-A5B4FC?style=for-the-badge&logo=linkedin&logoColor=312E81" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/SEND%20MESSAGE-GMAIL-86EFAC?style=for-the-badge&logo=gmail&logoColor=14532D" alt="Send an email" /></a>
-  <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-VERCEL-FED7AA?style=for-the-badge&logo=vercel&logoColor=7C2D12" alt="View Portfolio" /></a>
+  <img src="https://streak-stats.demolab.com?user=momarinho&hide_border=true&background=0F172A&ring=6366F1&fire=38BDF8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+  <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/VISIT-LIVE_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/SEND_MESSAGE-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
