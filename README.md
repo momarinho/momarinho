@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- HERO TYPING TITLE -->
+  <!-- RETRO ARCADE TYPING HEADER -->
   <a href="https://github.com/momarinho">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Mateus+Marinho;Software+Engineer+%E2%80%94+Backend+%26+Distributed+Systems;Go+%E2%80%A2+Python+(FastAPI)+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL" alt="Mateus Marinho Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=780&height=50&lines=%3E+MATEUS+MARINHO+_%3B%3C+SOFTWARE+ENGINEER+%2F%3E%3B%5B+BIOS+POST+OK+%E2%80%A2+SYSTEM+READY+%5D%3B1+ENGINEER+READY+%E2%80%A2+LVL+27" alt="Mateus Marinho Arcade Header" />
   </a>
 
   <p>
-    <strong>Building high-throughput backends, resilient data pipelines, and real-time distributed architectures.</strong>
+    <code>&gt; HIGH-THROUGHPUT BACKENDS • RESILIENT PIPELINES • DISTRIBUTED NODES</code>
   </p>
 
   <p>
-    <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-Vercel-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/HUD_Portfolio-Vercel-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/LinkedIn-momarinho94-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/Email-mateusomarinho%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/English_Fluency-C2_Proficient-10B981?style=for-the-badge" alt="English C2" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🖥️ SYSTEM BIOS // POST (POWER-ON SELF-TEST)
+### 🖥️ [0x00] SYSTEM BIOS // POWER-ON SELF-TEST
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
@@ -41,20 +41,34 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 💼 Engineering Overview
+---
 
-Software Engineer with strong hands-on experience in production environments, developing mission-critical systems and high-concurrency applications:
-* **GovTech Platforms:** Architected and maintained municipal core infrastructure at **Prefeitura de Arraial do Cabo**, including the automated electronic publishing pipeline (Diário Oficial with containerized high-fidelity rendering, RBAC security, and PostgreSQL GIN full-text search) and urban mobility systems processing real-time telemetry (**GTFS-Realtime**).
-* **Distributed & Real-Time Systems:** Specialized in low-latency Go backends (<2ms), WebSocket synchronization, Docker socket security proxies, and resilient integration patterns (idempotency, HMAC verification, staging-to-quarantine pipelines).
+### 💽 [0x01] SYS_LOG // PRODUCTION ENGINEERING
+
+```text
+┌── [ SYS_LOG // PRODUCTION ENGINEERING EXPERIENCE ] ──────────────────────────────────┐
+│                                                                                      │
+│  ● GOVTECH INFRASTRUCTURE · Prefeitura de Arraial do Cabo                            │
+│    Architected municipal core platforms: containerized publishing pipeline for       │
+│    Diário Oficial (RBAC security, PostgreSQL GIN full-text search) and GTFS-RT       │
+│    urban transit telemetry ingestion.                                                │
+│                                                                                      │
+│  ● DISTRIBUTED & REAL-TIME SYSTEMS                                                   │
+│    Specialized in low-latency Go backends (<2ms), 30Hz WebSocket synchronization,    │
+│    Docker socket security proxies, and resilient integration architectures           │
+│    (idempotency, HMAC SHA-256 verification, staging-to-quarantine pipelines).        │
+│                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🚀 Featured Flagship Architectures
+### 🕹️ [0x02] ARCHITECTURE SELECT // MOUNTED MODULES
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/momarinho/repengine">🏋️ RepEngine</a></h3>
+      <h3 align="center"><a href="https://github.com/momarinho/repengine">🏋️ [MOD_01] RepEngine</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/Svelte_5_Runes-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
@@ -73,7 +87,7 @@ Software Engineer with strong hands-on experience in production environments, de
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/momarinho/container-manager">🐳 ContainerMaster</a></h3>
+      <h3 align="center"><a href="https://github.com/momarinho/container-manager">🐳 [MOD_02] ContainerMaster</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Go_Services-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -94,7 +108,7 @@ Software Engineer with strong hands-on experience in production environments, de
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/momarinho/asteroids">🚀 Asteroids Real-Time Server</a></h3>
+      <h3 align="center"><a href="https://github.com/momarinho/asteroids">🚀 [MOD_03] Asteroids Server</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/WebSockets-FF6600?style=flat-square" />
@@ -111,7 +125,7 @@ Software Engineer with strong hands-on experience in production environments, de
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/momarinho/flowsync">🚢 FlowSync</a></h3>
+      <h3 align="center"><a href="https://github.com/momarinho/flowsync">🚢 [MOD_04] FlowSync Engine</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -134,28 +148,28 @@ Software Engineer with strong hands-on experience in production environments, de
 
 ---
 
-### 🛠️ Technical Capabilities & Stack
+### 💾 [0x03] MEMORY REGISTERS // TECH STACK
 
-```
-┌─────────────────────────┬─────────────────────────────────────────────────────────────────┐
-│ Backend & Systems       │ Go (Fiber, goroutines, sub-ms), Python (FastAPI, Pydantic v2),  │
-│                         │ Node.js/TypeScript, RESTful APIs, WebSockets, gRPC, HMAC SHA-256│
-├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
-│ Data & Persistence      │ PostgreSQL (ACID, GIN, B-Tree, pgxpool, FTS), Redis, SQL Server │
-├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
-│ Architecture Patterns   │ Idempotency Locks, Staging-Core-Quarantine, Circuit Breaker,    │
-│                         │ Microservices, Strangler Fig Pattern, Event-driven architecture │
-├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
-│ DevOps & Observability  │ Docker, Docker Compose, Linux/Bash, GitHub Actions CI/CD,       │
-│                         │ Nginx (Reverse Proxy & Rate-Limiting), Prometheus, Grafana      │
-├─────────────────────────┼─────────────────────────────────────────────────────────────────┤
-│ Frontend & Universal    │ Svelte 5 (Runes), React, Next.js (SSR), React Native / Expo     │
-└─────────────────────────┴─────────────────────────────────────────────────────────────────┘
+```text
+┌───────────────────────┬──────────────────────────────────────────────────────────────┐
+│ REG_00: CORE SYSTEMS  │ Go (Fiber, goroutines, sub-ms), Python (FastAPI, Pydantic v2)│
+│                       │ Node.js/TypeScript, RESTful APIs, WebSockets, HMAC SHA-256   │
+├───────────────────────┼──────────────────────────────────────────────────────────────┤
+│ REG_01: PERSISTENCE   │ PostgreSQL (ACID, GIN, B-Tree, pgxpool, FTS), Redis          │
+├───────────────────────┼──────────────────────────────────────────────────────────────┤
+│ REG_02: ARCHITECTURE  │ Idempotency Locks, Staging-Core-Quarantine, Circuit Breaker  │
+│                       │ Distributed Locks, Event-driven pipelines, Microservices     │
+├───────────────────────┼──────────────────────────────────────────────────────────────┤
+│ REG_03: INFRA & DEVOPS│ Docker, Docker Compose, Linux/Bash, GitHub Actions CI/CD     │
+│                       │ Nginx (Reverse Proxy & Rate-Limiting), Prometheus, Grafana   │
+├───────────────────────┼──────────────────────────────────────────────────────────────┤
+│ REG_04: INTERFACES    │ Svelte 5 (Runes), React, Next.js (SSR), React Native / Expo  │
+└───────────────────────┴──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 📈 Contribution Telemetry
+### 📊 [0x04] TELEMETRY // HARDWARE ACTIVITY
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=momarinho&hide_border=true&background=0F172A&ring=6366F1&fire=38BDF8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
@@ -163,8 +177,22 @@ Software Engineer with strong hands-on experience in production environments, de
 
 <br />
 
+---
+
+### 🤝 [0x05] COMM LINK // PRESS START TO CO-OP
+
+```text
+$ ./connect --peer=mateus --channel=all --status=ready
+```
+
 <div align="center">
-  <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/VISIT-LIVE_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/SEND_MESSAGE-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/momarinho94"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfoliomomarinho.vercel.app"><img src="https://img.shields.io/badge/LIVE_HUD-VERCEL-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mateusomarinho@gmail.com"><img src="https://img.shields.io/badge/DISPATCH-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </div>
