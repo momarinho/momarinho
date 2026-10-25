@@ -20,6 +20,27 @@
 
 ---
 
+### 🖥️ SYSTEM BIOS // POST (POWER-ON SELF-TEST)
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║  MATEUS_OS MODULAR BIOS v2.26 (x86_64) • (C) 2026 MATEUS MARINHO CORP.               ║
+║  SYSTEM DIAGNOSTICS & KERNEL INITIALIZATION SEQUENCE                                 ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║  PROCESSOR   : Go Concurrency Engine / High-Frequency Goroutine Nodes                ║
+║  MEMORY POOL : 65536 KB (Zero-leak runtime • pgxpool connection pooling active)      ║
+║  BASE REGION : Arraial do Cabo, RJ · Brazil (UTC-3) • Remote-First Distributed       ║
+║  INTERFACE   : Full-Duplex WebSockets 30Hz • HMAC SHA-256 Cryptographic Ingestion    ║
+╟──────────────────────────────────────────────────────────────────────────────────────╢
+║  [ 0.0012s ] KERNEL : Bootstrapping Go Fiber runtime (< 2ms dispatch)       [  OK  ] ║
+║  [ 0.0034s ] ENGINE : RepEngine determinism engine loaded (GZCLP / RPE)     [  OK  ] ║
+║  [ 0.0051s ] PROXY  : Docker socket security filter engaged (/var/run)      [  OK  ] ║
+║  [ 0.0078s ] COMEX  : FlowSync 3-tier pipeline online (Staging-Core-Quar)   [  OK  ] ║
+║  [ 0.0095s ] DB     : PostgreSQL 16 verified (ACID Invariants & GIN Search) [  OK  ] ║
+║  [ 0.0120s ] STATUS : ALL SYSTEMS NOMINAL • 100% OPERATIONAL FOR PRODUCTION WORKLOAD ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
 ### 💼 Engineering Overview
 
 Software Engineer with strong hands-on experience in production environments, developing mission-critical systems and high-concurrency applications:
