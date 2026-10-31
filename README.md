@@ -29,7 +29,7 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║  PROCESSOR   : Go Concurrency Engine / High-Frequency Goroutine Nodes                ║
 ║  MEMORY POOL : 65536 KB (Zero-leak runtime • pgxpool connection pooling active)      ║
-║  BASE REGION : Arraial do Cabo, RJ · Brazil (UTC-3) • Remote-First Distributed       ║
+║  BASE REGION : Cabo Frio, RJ · Brazil (UTC-3) • Remote-First Distributed       ║
 ║  INTERFACE   : Full-Duplex WebSockets 30Hz • HMAC SHA-256 Cryptographic Ingestion    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────╢
 ║  [ 0.0012s ] KERNEL : Bootstrapping Go Fiber runtime (< 2ms dispatch)       [  OK  ] ║
